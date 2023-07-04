@@ -1,8 +1,0 @@
-C:\Users\kurk6\OneDrive\Рабочий стол\Tower\Tower\bin\Debug\Tower.exe.config
-C:\Users\kurk6\OneDrive\Рабочий стол\Tower\Tower\bin\Debug\Tower.exe
-C:\Users\kurk6\OneDrive\Рабочий стол\Tower\Tower\bin\Debug\Tower.pdb
-C:\Users\kurk6\OneDrive\Рабочий стол\Tower\Tower\obj\Debug\Tower.csproj.AssemblyReference.cache
-C:\Users\kurk6\OneDrive\Рабочий стол\Tower\Tower\obj\Debug\Tower.csproj.SuggestedBindingRedirects.cache
-C:\Users\kurk6\OneDrive\Рабочий стол\Tower\Tower\obj\Debug\Tower.csproj.CoreCompileInputs.cache
-C:\Users\kurk6\OneDrive\Рабочий стол\Tower\Tower\obj\Debug\Tower.exe
-C:\Users\kurk6\OneDrive\Рабочий стол\Tower\Tower\obj\Debug\Tower.pdb
