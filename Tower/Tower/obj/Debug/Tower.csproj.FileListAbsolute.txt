@@ -1,0 +1,24 @@
+C:\Users\angel\OneDrive\Рабочий стол\Tower\Tower\obj\Debug\Tower.csproj.AssemblyReference.cache
+C:\Users\angel\OneDrive\Рабочий стол\Tower\Tower\obj\Debug\Tower.csproj.SuggestedBindingRedirects.cache
+C:\Users\angel\OneDrive\Рабочий стол\Tower\Tower\obj\Debug\Tower.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Рабочий стол\Tower\Tower\bin\Debug\Tower.exe.config
+C:\Users\angel\OneDrive\Рабочий стол\Tower\Tower\bin\Debug\Tower.exe
+C:\Users\angel\OneDrive\Рабочий стол\Tower\Tower\bin\Debug\Tower.pdb
+C:\Users\angel\OneDrive\Рабочий стол\Tower\Tower\obj\Debug\Tower.exe
+C:\Users\angel\OneDrive\Рабочий стол\Tower\Tower\obj\Debug\Tower.pdb
+C:\Users\kurk6\OneDrive\Рабочий стол\Tower\Tower\obj\Debug\Tower.csproj.AssemblyReference.cache
+C:\Users\kurk6\OneDrive\Рабочий стол\Tower\Tower\obj\Debug\Tower.csproj.SuggestedBindingRedirects.cache
+C:\Users\kurk6\OneDrive\Рабочий стол\Tower\Tower\obj\Debug\Tower.csproj.CoreCompileInputs.cache
+C:\Users\kurk6\OneDrive\Рабочий стол\Tower\Tower\obj\Debug\Tower.exe
+C:\Users\kurk6\OneDrive\Рабочий стол\Tower\Tower\obj\Debug\Tower.pdb
+C:\Users\kurk6\OneDrive\Рабочий стол\Tower\Tower\bin\Debug\Tower.exe.config
+C:\Users\kurk6\OneDrive\Рабочий стол\Tower\Tower\bin\Debug\Tower.exe
+C:\Users\kurk6\OneDrive\Рабочий стол\Tower\Tower\bin\Debug\Tower.pdb
+C:\Users\Светлана\Desktop\Новая сжатая ZIP-папка (1)\Tower\Tower\bin\Debug\Tower.exe.config
+C:\Users\Светлана\Desktop\Новая сжатая ZIP-папка (1)\Tower\Tower\bin\Debug\Tower.exe
+C:\Users\Светлана\Desktop\Новая сжатая ZIP-папка (1)\Tower\Tower\bin\Debug\Tower.pdb
+C:\Users\Светлана\Desktop\Новая сжатая ZIP-папка (1)\Tower\Tower\obj\Debug\Tower.csproj.AssemblyReference.cache
+C:\Users\Светлана\Desktop\Новая сжатая ZIP-папка (1)\Tower\Tower\obj\Debug\Tower.csproj.SuggestedBindingRedirects.cache
+C:\Users\Светлана\Desktop\Новая сжатая ZIP-папка (1)\Tower\Tower\obj\Debug\Tower.csproj.CoreCompileInputs.cache
+C:\Users\Светлана\Desktop\Новая сжатая ZIP-папка (1)\Tower\Tower\obj\Debug\Tower.exe
+C:\Users\Светлана\Desktop\Новая сжатая ZIP-папка (1)\Tower\Tower\obj\Debug\Tower.pdb
