@@ -9,6 +9,10 @@
 
 
 
+Контактная информация:
+e-mail: angelina.bocharova20@gmail.com
+
+
 
 
 
