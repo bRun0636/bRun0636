@@ -108,7 +108,7 @@ namespace Tower
             switch (n)
             {
                 case 1:
-                    xp += rnd.Next(30, 60);
+                    xp += rnd.Next(50, 60);
                     break;
                 case 2:
                     xp += rnd.Next(70, 100);
